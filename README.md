@@ -1,2 +1,3 @@
 # Analysis-of-Structures
-Calculation of section properties and implementation of Python script for automatic FE simulation of a combined profile in ABAQUS
+Project-1 Calculation of section values for the combined profile using thin walled approach in Python
+Project-2 Development and implementation of python script in Abaqus to create FE-model of Combined profile
